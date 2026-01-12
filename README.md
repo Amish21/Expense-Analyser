@@ -46,10 +46,15 @@ CREATE TABLE transactions (
 ---
 
 ## Project Structure
-```expense-analyzer/
+
+```text
+expense-analyzer/
 ├── src/
 │   └── analyzer.py
+├── sql/
+│   └── schema.sql
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 ---

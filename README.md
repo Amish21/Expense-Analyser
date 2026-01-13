@@ -60,6 +60,7 @@ expense-analyzer/
 ---
 
 ## How To Run:
+```
 1.) Install Python 3 and MySQL
 2.) Install required dependency:
 pip install mysql-connector-python
@@ -72,7 +73,7 @@ password="YOUR_PASSWORD"
 database="expense_db"
 5.) Run the application:
 python src/analyzer.py
-
+```
 ---
 
 ## Cli Output
